@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bank-app/bank-transfer.iml" filepath="$PROJECT_DIR$/bank-app/bank-transfer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-batch-food/batch-import.iml" filepath="$PROJECT_DIR$/springboot-batch-food/batch-import.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-service/eureka.iml" filepath="$PROJECT_DIR$/eureka-service/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foodapp.iml" filepath="$PROJECT_DIR$/foodapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/food-booking-service/foodbooking.iml" filepath="$PROJECT_DIR$/food-booking-service/foodbooking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service/gateway.iml" filepath="$PROJECT_DIR$/gateway-service/gateway.iml" />
+    </modules>
+  </component>
+</project>
